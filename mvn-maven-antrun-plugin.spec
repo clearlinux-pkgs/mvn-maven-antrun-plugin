@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-antrun-plugin
 Version  : 1.8
-Release  : 3
+Release  : 4
 URL      : https://github.com/apache/maven-antrun-plugin/archive/maven-antrun-plugin-1.8.tar.gz
 Source0  : https://github.com/apache/maven-antrun-plugin/archive/maven-antrun-plugin-1.8.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8.jar
